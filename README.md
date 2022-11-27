@@ -1,2 +1,5 @@
-# pnetlab-api
-Some functions and example for API-requests to PNETLab
+# Example of PNETLab API
+
+A few functions and example for API-requests to PNETLab.
+
+You have to disable captcha in PNetLab settings if you want to run them.
